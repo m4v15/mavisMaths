@@ -1,0 +1,12 @@
+{
+  "name": "maths-test",
+  "version": "1.1.2",
+  "description": "do maths with strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mavis",
+  "license": "ISC"
+}
